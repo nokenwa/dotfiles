@@ -1,0 +1,8 @@
+This is a list of all the applications I keep in my setup
+
+- Alfred Productivity (Mac Only )
+  - Download: (https://www.alfredapp.com/)
+- VS Code
+  - (Config files in ./config)
+  - Download: (https://https://code.visualstudio.com/)
+ 
